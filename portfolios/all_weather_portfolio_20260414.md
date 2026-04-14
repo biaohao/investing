@@ -4,6 +4,6 @@ Ray Dalio’s All Weather portfolio is often described as the more engineered, r
 
 Using the same 1972–2025 backtest framework as the Permanent Portfolio update, this DIY All Weather mix produced an **average annual return of 8.80%**, a **CAGR of 8.43%**, and a **cumulative return of 7799.2%**. In dollar terms, **$1 grew to about $78.99**. The **worst calendar year** in this series was **2022 (-20.02%)**, and the **worst daily drawdown** was about **-29.41%**.
 
-![Equity curve comparing the All Weather portfolio with the Permanent Portfolio from 1972 to 2025](./all_weather_vs_pp_equity_curve_1972_2025.png)
-
 Compared with the Permanent Portfolio, the DIY All Weather portfolio earned **slightly lower long-run returns** in this backtest and experienced **deeper drawdowns**. The Permanent Portfolio compounded at **8.73%**, grew **$1 to about $91.84**, and saw a worst daily drawdown of about **-16.35%**. In that sense, All Weather looks like a more bond-heavy and more institutional version of the same basic idea: diversify across economic regimes rather than depend on one forecast being right.
+
+![Equity curve comparing the All Weather portfolio with the Permanent Portfolio from 1972 to 2025](./all_weather_vs_pp_equity_curve_1972_2025.png)
