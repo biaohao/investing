@@ -9,3 +9,20 @@ Using the same 1972–2025 backtest framework as the Permanent Portfolio update,
 Compared with the Permanent Portfolio, the DIY All Weather portfolio earned **slightly lower long-run returns** in this backtest and experienced **deeper drawdowns**. The Permanent Portfolio compounded at **8.73%**, grew **$1 to about $91.84**, and saw a worst daily drawdown of about **-16.35%**. In that sense, All Weather looks like a more bond-heavy and more institutional version of the same basic idea: diversify across economic regimes rather than depend on one forecast being right.
 
 ![Equity curve comparing the All Weather portfolio with the Permanent Portfolio from 1972 to 2025](./all_weather_vs_pp_equity_curve_1972_2025.png)
+
+## Key References
+
+- **Bridgewater Associates, [The All Weather Story](https://www.bridgewater.com/research-and-insights/the-all-weather-story)**
+  - Primary source on the origin and philosophy of the All Weather strategy.
+
+- **State Street / Bridgewater, [Diversify for all seasons with the All Weather ETF ALLW](https://www.ssga.com/us/en/intermediary/capabilities/alternatives/all-weather-etf)**
+  - Plain-English overview of the All Weather approach and its economic-regime framework.
+
+- **Portfolio Charts, [Permanent Portfolio](https://portfoliocharts.com/portfolios/permanent-portfolio/)**
+  - Clear summary of Harry Browne’s Permanent Portfolio and its classic 25/25/25/25 structure.
+
+- **Investopedia, [What Is a Permanent Portfolio?](https://www.investopedia.com/terms/p/permanent-portfolio.asp)**
+  - Concise general reference for the Permanent Portfolio concept.
+
+- **Optimized Portfolio, [Ray Dalio All Weather Portfolio Review, ETFs, & Leverage (2026)](https://www.optimizedportfolio.com/all-weather-portfolio/)**
+  - Useful reference for the common DIY All Weather approximation used by individual investors.
