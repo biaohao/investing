@@ -2,6 +2,8 @@
 
 April 14, 2026
 
+#
+
 Back in 2017, I wrote about the [Permanent Portfolio](https://biaohao.blogspot.com/2017/02/#493024439047265142) as one of the simplest and most elegant portfolio ideas I had come across: 25% stocks, 25% long-term Treasuries, 25% gold, and 25% cash. What I liked most was not that it promised the highest return. It was that it did not require me to make a grand macro forecast and market timing. I started experimenting with it using the custodian's accounts for my children. Another advantage is that I do not need to spend time on these small accounts, other than the annual rebalance. The more rewarding part is not in the return of those initial accounts, but in the understanding of different asset classes and their roles in portfolios. I had added Gold to my other accounts since then, which had a spectacular return in the Gold bull market in the last few years.
 
 Nearly a decade later, and with a much longer record now in hand, I think the idea is worth revisiting.
