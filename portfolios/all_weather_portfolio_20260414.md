@@ -1,4 +1,6 @@
-## Ray Dalio's All Weather Portfolio
+# Ray Dalio's All Weather Portfolio
+April 14, 2026
+##
 
 Ray Dalio’s All Weather portfolio is often described as the more engineered, risk-balanced cousin of Harry Browne’s Permanent Portfolio. The common DIY approximation uses **30% stocks, 40% long Treasuries, 15% intermediate Treasuries, 7.5% gold, and 7.5% commodities**. Like the Permanent Portfolio, the idea is not to forecast the next macro regime, but to own a mix of assets that can hold up across very different environments.
 
