@@ -58,10 +58,14 @@ So the Permanent Portfolio is not the best answer to every investing question. B
 
 ## What I Would Do Today
 
-If I were building a portfolio today and wanted maximum resilience with minimum forecasting, I would still take the Permanent Portfolio very seriously. I would not expect it to beat stocks in a roaring bull market, and I would not pretend it is immune to bad years. But I would trust it to survive a wide range of outcomes with less drama than most portfolios.
+If I were starting from scratch today, I would still take the Permanent Portfolio very seriously. I do not see it as the perfect answer for every investor or every stage of life, but I still think it is one of the most thoughtful portfolio designs out there. It is built on a simple idea that is easy to forget: the future is hard to predict, and a good portfolio should respect that.
 
-For my own situation, I would think of it less as an all-or-nothing choice and more as a benchmark or anchor. A conservative investor could hold it outright. A more growth-oriented investor could use it as the stable core of a broader portfolio and then tilt around it based on goals, valuation, or risk tolerance. In recent years, I have relied more on market timing to leverage the market cycles of assets and generated decent risk-adjusted returns. 
+For my own portfolio, things are a little different now. In recent years, I have relied more on market timing to work with the cycles of different asset classes, and that has produced decent risk-adjusted returns for me. Even so, I still keep the Permanent Portfolio in the back of my mind.
+I think of it as a benchmark, or maybe more accurately, an anchor. It gives me a reference point for what a balanced and resilient portfolio can look like without requiring constant forecasting. Even when I make more active decisions, I often find myself comparing them against that framework and asking whether I am truly improving the portfolio or just making it more complicated.
 
-That, to me, is still the lasting lesson of the Permanent Portfolio: it is not the portfolio for getting rich as fast as possible. It is the portfolio for building wealth in a way that is unusually hard to destroy.
+That is why I have never really moved on from the idea. I may not run my whole portfolio this way, but I can easily see myself coming back to it with a portion of my assets, especially the part where simplicity, durability, and peace of mind matter most.
+
+In that sense, the Permanent Portfolio still plays an important role for me. Not necessarily as the whole plan, but as a standard I continue to measure against.
+
 
 **Data note:** This update uses a TLT-style 20+ Treasury proxy for the long-bond sleeve rather than a pure 30-year constant-maturity Treasury series, and drawdowns are calculated from a daily portfolio path rather than from year-end returns.
